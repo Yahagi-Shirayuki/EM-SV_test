@@ -43,7 +43,7 @@ a{
     border: 1px solid #ccc;
     margin-top: 10px;
     margin-bottom: 10px;
-    background: #222;
+    background: #1c2638;
     padding: 40px;
     text-align: center;
 }
@@ -59,7 +59,7 @@ a{
     padding: 30px;
     box-sizing: border-box;
     border: 1px solid #ccc;
-    background: #222;
+    background: #1c2638;
     font-size: 17px;
 }
 
@@ -114,7 +114,7 @@ button:hover {
 }
 
 .infoBox {
-    background: #222;
+    background: #1c2638;
     padding: 20px;
 }
 .infoBox h3 {
